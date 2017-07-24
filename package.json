@@ -1,7 +1,7 @@
 {
   "name": "express-service-health",
-  "version": "0.0.0",
-  "description": "express middleware to provide a simple health check endpoint",
+  "version": "1.0.0",
+  "description": "express middleware to provide a simple health check endpoint for a service",
   "main": "index.js",
   "files": [
     "LICENSE",
