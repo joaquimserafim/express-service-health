@@ -21,7 +21,7 @@ express middleware to provide a simple health check endpoint for a service
 ### example
 
 ```js
-const health = require('express-service-health)
+const health = require('express-service-health')
 const express = require('express')
 
 const service = express()
