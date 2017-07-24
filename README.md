@@ -11,7 +11,7 @@ express middleware to provide a simple health check endpoint for a service
 
 
 ### api
-`const health = require('express-service-health)`
+`const health = require('express-service-health')
 
 `health(express.Router[, endpoint])`
 
